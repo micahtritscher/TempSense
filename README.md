@@ -10,3 +10,9 @@ Wireless ESP32-C3FH4 based battery powered HDC1080DMBR temperature and humidty l
 - BQ24074RGTR charging circuit (Designed for 500 mAh LiPO battery)
 
 ### Images
+KiCAD 9.0 Renders
+![PCB Render](Images/RenderTempSensePCB.png)
+![PCB Render](Images/RenderTempSensePCBTop.png)
+![PCB Render](Images/RenderTempSensePCBBottom.png)
+Manufactured by JLCPCB, assembled by hand
+![PCB Render](Images/TempSenseAssembled.jpg)
