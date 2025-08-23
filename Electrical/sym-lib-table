@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TempSense")(type "KiCad")(uri "${KIPRJMOD}/lib/TempSense.kicad_sym")(options "")(descr ""))
+)

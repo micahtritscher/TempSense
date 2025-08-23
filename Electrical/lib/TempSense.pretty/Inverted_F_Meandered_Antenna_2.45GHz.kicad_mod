@@ -1,0 +1,239 @@
+(footprint "Inverted_F_Meandered_Antenna_2.45GHz"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "ANT*"
+		(at 7.25 0.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b6f38176-27c0-4554-afa9-26fe78e7ded6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Inverted_F_Meandered_Antenna_2.45GHz_50ohm"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3a229c9a-f546-492b-a983-43eeafd73929")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ti.com/lit/an/swra117d/swra117d.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21e427fb-ccd7-42c7-8d8f-62dc647feb64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Design as per TI AN043 application note"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad4e87c4-ac89-4805-b60b-655bf2c23947")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start 0 -4.9)
+		(end 5 -5.4)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "545dcea7-3449-485a-a126-7a0b2b13469e")
+	)
+	(fp_rect
+		(start 0 -0.5)
+		(end 0.9 -4.9)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "0139de33-b3aa-49c5-8443-64c43d6b1c77")
+	)
+	(fp_rect
+		(start 2.3 -0.5)
+		(end 2.8 -4.9)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "cacaee06-47a0-4442-9de9-6bba21eef116")
+	)
+	(fp_rect
+		(start 4.5 -4.9)
+		(end 5 -2.26)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "349557a7-a519-46db-917e-8288d96803ac")
+	)
+	(fp_rect
+		(start 5 -2.26)
+		(end 7 -2.76)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "2370b1c5-e8e5-4456-98b9-6ecda28f29a7")
+	)
+	(fp_rect
+		(start 7 -4.9)
+		(end 9.7 -5.4)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "a4e2c64f-4d48-4576-ba54-7f53ddd339a1")
+	)
+	(fp_rect
+		(start 7 -2.26)
+		(end 7.5 -4.9)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "a09ce557-b65e-43e7-acfd-9cad0214bf20")
+	)
+	(fp_rect
+		(start 9.7 -4.9)
+		(end 9.2 -2.26)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "278f4c35-6d35-43f7-b8c0-4daf33e1c8ec")
+	)
+	(fp_rect
+		(start 9.7 -2.26)
+		(end 11.7 -2.76)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "56f05a7a-893c-47a6-be01-0e12c05d0e47")
+	)
+	(fp_rect
+		(start 11.7 -4.9)
+		(end 14.4 -5.4)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "13303841-4045-4ef1-8467-f8c35c1ffe2a")
+	)
+	(fp_rect
+		(start 11.7 -2.26)
+		(end 12.2 -4.9)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "4341e43d-a1e5-4cbf-bdd2-eb963cb61ce5")
+	)
+	(fp_rect
+		(start 14.4 -5.4)
+		(end 14.9 -1.46)
+		(stroke
+			(width 0.002)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "e5d7ae42-94d1-46e7-bce9-86d5ac86088d")
+	)
+	(fp_rect
+		(start -3 -8)
+		(end 17.5 -0.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "00208ebf-3b56-44be-9c88-7655796a9f91")
+	)
+	(fp_text user "Keep out zone"
+		(at 2 -6.2 0)
+		(unlocked yes)
+		(layer "F.CrtYd")
+		(uuid "c668fdd3-55a7-4568-a408-62ac13a5f027")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "935ad52f-d272-4a5d-b26f-57f87d8d1716")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 2.55 -0.25)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "459b5550-7409-4353-afee-80e99267ad51")
+	)
+	(pad "2" smd rect
+		(at 0.45 -0.25)
+		(size 0.9 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "765cb716-0b06-495d-a3d9-251d7321ddc3")
+	)
+	(embedded_fonts no)
+)
