@@ -8,6 +8,7 @@ Wireless ESP32-C3FH4 based battery powered HDC1080DMBR temperature and humidty l
 - Impedance matched PCB antenna from TI AN043 application: https://www.ti.com/lit/an/swra117d/swra117d.pdf
 - USB Type-C charging and programming
 - BQ24074RGTR charging circuit (Designed for 500 mAh LiPO battery)
+- Compact design at 25 mm x 50 mm
 
 ### Images
 KiCAD 9.0 Renders
